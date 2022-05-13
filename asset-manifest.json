@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://destin-niyomufasha.github.io/csb-i5budu/static/css/main.0bdcdeac.chunk.css",
+    "main.js": "https://destin-niyomufasha.github.io/csb-i5budu/static/js/main.67b20bf3.chunk.js",
+    "main.js.map": "https://destin-niyomufasha.github.io/csb-i5budu/static/js/main.67b20bf3.chunk.js.map",
+    "runtime-main.js": "https://destin-niyomufasha.github.io/csb-i5budu/static/js/runtime-main.6d0a1c93.js",
+    "runtime-main.js.map": "https://destin-niyomufasha.github.io/csb-i5budu/static/js/runtime-main.6d0a1c93.js.map",
+    "static/js/2.8e9907f3.chunk.js": "https://destin-niyomufasha.github.io/csb-i5budu/static/js/2.8e9907f3.chunk.js",
+    "static/js/2.8e9907f3.chunk.js.map": "https://destin-niyomufasha.github.io/csb-i5budu/static/js/2.8e9907f3.chunk.js.map",
+    "index.html": "https://destin-niyomufasha.github.io/csb-i5budu/index.html",
+    "static/css/main.0bdcdeac.chunk.css.map": "https://destin-niyomufasha.github.io/csb-i5budu/static/css/main.0bdcdeac.chunk.css.map",
+    "static/js/2.8e9907f3.chunk.js.LICENSE.txt": "https://destin-niyomufasha.github.io/csb-i5budu/static/js/2.8e9907f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d0a1c93.js",
+    "static/js/2.8e9907f3.chunk.js",
+    "static/css/main.0bdcdeac.chunk.css",
+    "static/js/main.67b20bf3.chunk.js"
+  ]
+}
